@@ -29,7 +29,7 @@ L’objectif de ce mini projet est de créer une application Restful Web Service
 
 Puis entrez ces données dans l'image : 
 
-![User Guide](/images/user-guide.png)
+![User Guide](/images/DB.png)
 
 Voici des exemples de requêtes API que vous pouvez effectuer :
 
